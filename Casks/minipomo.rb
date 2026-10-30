@@ -1,6 +1,6 @@
 cask "minipomo" do
-  version "0.1.4"
-  sha256 "fd6e6e971fc0ed19dcd832ca3379e4ade2114cd6d49f1df2f9fef50075f1d20c"
+  version "0.1.5"
+  sha256 "73c6a86e581b21f0d5ba6a5fb3dcbbd486e372dbcc454c298841cd6b33d337dc"
 
   url "https://github.com/Alejogalim/MiniPomo/releases/download/v#{version}/MiniPomo_#{version}_universal.dmg"
   name "MiniPomo"
